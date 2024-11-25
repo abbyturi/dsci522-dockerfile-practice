@@ -1,0 +1,8 @@
+name: environment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.9  
+  - pandas=2.2.3   
+  - numpy=2.1.3    
+
