@@ -1,8 +1,7 @@
-name: environment
+name: dsci522-dockerfile-practice
 channels:
-  - conda-forge
+ - conda-forge
 dependencies:
-  - python=3.11.9  
-  - pandas=2.2.3   
-  - numpy=2.1.3    
-
+  - pandas=2.2.2
+  - pandera=0.20.4
+  - python=3.11
